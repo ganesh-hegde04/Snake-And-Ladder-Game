@@ -1,4 +1,4 @@
-A simple console-based Snake and Ladder game in Java. Players race from start to finish, climbing ladders and avoiding snakes.|
+A simple console-based Snake and Ladder game in Java. Players race from start to finish, climbing ladders and avoiding snakes.
 
 Rules & Gameplay:
 Board: 100 cells in zigzag.
