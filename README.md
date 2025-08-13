@@ -4,7 +4,7 @@ Rules & Gameplay:
 Board: 100 cells in zigzag.
 Roll dice to move; ladders move up, snakes slide down.
 Must land exactly on 100 to win.
-Supports 2+ players.
+Supports multiplayer players.
 
 Features:
 Interactive dice roll.
